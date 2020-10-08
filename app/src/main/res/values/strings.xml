@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLite Practice project</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="add_user">ADD USER</string>
+    <string name="update">UPDATE</string>
+    <string name="view_data">VIEW DATA</string>
+    <string name="enter_name_to_delete_data">Enter Name to Delete Data</string>
+    <string name="delete">DELETE</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="current_name">Current Name</string>
+</resources>
